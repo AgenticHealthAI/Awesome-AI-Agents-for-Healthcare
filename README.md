@@ -87,6 +87,8 @@ If you find our paper and repository helpful, please cite:
 
 ## Year 2026 
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 1. [arxiv 2026.4] **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance** [[paper]](https://arxiv.org/abs/2604.01113)
 1. [arxiv 2026.3] **SkinGPT-X: A Self-Evolving Collaborative Multi-Agent System for Transparent and Trustworthy Dermatological Diagnosis** [[paper]](https://arxiv.org/pdf/2603.26122)
 1. [arxiv 2026.3] **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding** [[paper]](https://arxiv.org/abs/2603.29709)
