@@ -969,6 +969,9 @@ Beyond academic research papers, several open-source projects and tools provide 
 
 ## Healthcare-Specific Agent Systems
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — 🤖 AI 监控 AI。全球首个由 AI 自身驱动开发的 Agent 监控系统。Vue 3 前端 + Node.js 后端，开箱即用。线上 Demo → http://47.109.47.116/ ![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)
+
+
 | Project | Description | Links |
 | :------ | :---------- | :---- |
 | **ClawdTalk** | Voice calling and SMS skill for AI agents enabling telephony capabilities for healthcare communication | ![Star](https://img.shields.io/github/stars/team-telnyx/clawdtalk-client.svg?style=social&label=Star) <br> [GitHub](https://github.com/team-telnyx/clawdtalk-client) \| [Website](https://clawdtalk.com) |
