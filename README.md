@@ -1028,6 +1028,7 @@ Beyond academic research papers, several open-source projects and tools provide 
 | :------ | :---------- | :---- |
 | **Awesome Healthcare** | Curated list of awesome open source healthcare software, libraries, tools and resources | ![Star](https://img.shields.io/github/stars/kakoni/awesome-healthcare.svg?style=social&label=Star) <br> [GitHub](https://github.com/kakoni/awesome-healthcare) |
 | **Awesome Healthcare AI** | Curated list of open source healthcare tools, algorithms, datasets and research papers | ![Star](https://img.shields.io/github/stars/medtorch/awesome-healthcare-ai.svg?style=social&label=Star) <br> [GitHub](https://github.com/medtorch/awesome-healthcare-ai) |
+| **Awesome AI Startups — Health, Fitness & Wellness** | Indie/bootstrapped AI health, fitness, and wellness products from solo founders | ![Star](https://img.shields.io/github/stars/nowork-studio/awesome-ai-startups.svg?style=social&label=Star) <br> [GitHub](https://github.com/nowork-studio/awesome-ai-startups#health-fitness-wellness) |
 
 # Acknowledgement
 
