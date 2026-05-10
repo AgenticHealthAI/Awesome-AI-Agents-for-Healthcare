@@ -1001,6 +1001,7 @@ Beyond academic research papers, several open-source projects and tools provide 
 | **Fulcra Context MCP** | Personal context MCP server providing unified access to biometric, sleep, activity, and calendar data for AI agents via the Fulcra Life API — enables healthcare AI applications to incorporate real-time patient-reported wellness data | ![Star](https://img.shields.io/github/stars/fulcradynamics/fulcra-context-mcp.svg?style=social&label=Star) <br> [GitHub](https://github.com/fulcradynamics/fulcra-context-mcp) \| [Python Client](https://github.com/fulcradynamics/fulcra-api-python) |
 
 | **Genomic Agent Discovery** | Multi-agent MCP server for genomic analysis — specialized AI agents analyze raw DNA files across 12 databases (ClinVar, GWAS, AlphaMissense, CPIC, gnomAD, etc.) and coordinate findings through shared MCP tools. Privacy-first, runs 100% locally | ![Star](https://img.shields.io/github/stars/HelixGenomics/Genomic-Agent-Discovery.svg?style=social&label=Star) <br> [GitHub](https://github.com/HelixGenomics/Genomic-Agent-Discovery) |
+| [NotFair](https://notfair.co) | Google Ads MCP server for AI agents. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ## Healthcare RAG & Knowledge Systems
 
