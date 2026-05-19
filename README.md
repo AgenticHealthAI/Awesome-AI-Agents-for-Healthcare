@@ -86,8 +86,6 @@ If you find our paper and repository helpful, please cite:
 
 # Latest Papers
 
-## Year 2026 
-
 ## Year 2026
 1. [arxiv 2026.5] **SEMA-RAG: A Self-Evolving Multi-Agent Retrieval-Augmented Generation Framework for Medical Reasoning** [[paper]](https://arxiv.org/abs/2605.17101)
 1. [arxiv 2026.5] **CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?** [[paper]](https://arxiv.org/abs/2605.16679) [[Github]](https://github.com/actava-ai/chi-bench) [[Project]](https://actava.ai/benchmarks)
