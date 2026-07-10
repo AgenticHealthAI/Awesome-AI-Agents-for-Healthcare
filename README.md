@@ -202,7 +202,7 @@ If you find our paper and repository helpful, please cite:
 1. [arxiv 2026.3] **A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series** [[paper]](https://arxiv.org/abs/2603.04142)
 1. [HealthSec/ACSAC 2026] **Goal-Driven Risk Assessment for LLM-Powered Systems: A Healthcare Case Study** [[paper]](https://arxiv.org/abs/2603.03633)
 1. [arxiv 2026.2] **3DMedAgent: Unified Perception-to-Understanding for 3D Medical Analysis** [[paper]](https://arxiv.org/abs/2602.18064)
-1. [arxiv 2026.2] **Can Agents Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting?** [[paper]](https://arxiv.org/abs/2602.22959) [[Github]](https://github.com/TruhnLab/Contrastive-Agent-Reasoning)
+1. [MICCAI 2026] **Can Agents Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting?** [[paper]](https://arxiv.org/abs/2602.22959) [[Github]](https://github.com/TruhnLab/Contrastive-Agent-Reasoning)
 1. [arxiv 2026.2] **Which Tool Response Should I Trust? Tool-Expertise-Aware Chest X-ray Agent with Multimodal Agentic Learning** [[paper]](https://arxiv.org/abs/2602.21517)
 1. [arxiv 2026.2] **MedClarify: An Information-Seeking AI Agent for Medical Diagnosis with Case-Specific Follow-up Questions** [[paper]](https://arxiv.org/abs/2602.17308)
 1. [arxiv 2026.2] **LAMMI-Pathology: A Tool-Centric Bottom-Up LVLM-Agent Framework for Molecularly Informed Medical Intelligence in Pathology** [[paper]](https://arxiv.org/abs/2602.18773)
