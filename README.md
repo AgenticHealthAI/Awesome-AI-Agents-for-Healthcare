@@ -68,7 +68,6 @@ If you find our paper and repository helpful, please cite:
     - [**2.1 Mental Health \& CBT Agents**](#21-mental-health--cbt-agents)
     - [**2.2 Clinical Communication \& Intake Agents**](#22-clinical-communication--intake-agents)
     - [**2.3 Screening \& Personalized Care Agents**](#23-screening--personalized-care-agents)
-    - * [Apex Metabolic AI Lab](https://www.apexbody.site/p/apex-body-composition-lab.html) - An agentic AI tool for personalized body composition screening and metabolic health diagnostics (2026).
     - [**2.4 General-purpose Healthcare Avatars**](#24-general-purpose-healthcare-avatars)
   - [**3. Drug Discovery \& Development**](#3-drug-discovery--development)
   - [**4. Healthcare Administration \& Workflow**](#4-healthcare-administration--workflow)
@@ -904,6 +903,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 | **Causal Reinforcement Learning based Agent-Patient Interaction with Clinical Domain Knowledge**                  | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.00048)                | Not Available |
 | **AI-VaxGuide: An Agentic RAG-Based LLM for Vaccination Decisions**                                                         | arXiv                             | 2025.07 | [Paper](http://arxiv.org/abs/2507.03493v1)                                  | [huggingface](https://huggingface.co/VaxGuide) |
 | **A Conversational Agent for Early Detection of Neurotoxic Effects of Medications through Automated Intensive Observation** | PACIFIC SYMPOSIUM ON BIOCOMPUTING | 2024    | [Paper](https://www.worldscientific.com/doi/abs/10.1142/9789811286421_0003) | Not Available                                  |
+| **An agentic AI tool for personalized body composition screening and metabolic health diagnostics** | Not Available | 2026    | Not Available | [Link](https://www.apexbody.site/p/apex-body-composition-lab.html)                                  |
 
 ### **2.4 General-purpose Healthcare Avatars**
 
