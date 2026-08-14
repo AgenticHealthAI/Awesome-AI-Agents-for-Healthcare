@@ -86,6 +86,7 @@ If you find our paper and repository helpful, please cite:
 # Latest Papers
 
 ## Year 2026
+1. [arxiv 2026.8] **Beyond Relevance: Bayesian Evidence Acquisition for Agentic Whole-Slide Image Reasoning** [[paper]](https://arxiv.org/abs/2608.05757) [[Github]](https://github.com/bryanwong17/BEACON)
 1. [arxiv 2026.5] **SEMA-RAG: A Self-Evolving Multi-Agent Retrieval-Augmented Generation Framework for Medical Reasoning** [[paper]](https://arxiv.org/abs/2605.17101)
 1. [arxiv 2026.5] **CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?** [[paper]](https://arxiv.org/abs/2605.16679) [[Github]](https://github.com/actava-ai/chi-bench) [[Project]](https://actava.ai/benchmarks)
 1. [arxiv 2026.5] **COTCAgent: Preventive Consultation via Probabilistic Chain-of-Thought Completion** [[paper]](https://arxiv.org/abs/2605.15016)
@@ -651,6 +652,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                             | Venue         | Date    | Paper Link                                                | Project Page                                                                                                                                                               |
 | :---------------------------------------------------------------------------------------------------------------- | :------------ | :------ | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Beyond Relevance: Bayesian Evidence Acquisition for Agentic Whole-Slide Image Reasoning** | arXiv | 2026.08 | [Paper](https://arxiv.org/abs/2608.05757) | ![Star](https://img.shields.io/github/stars/bryanwong17/BEACON.svg?style=social&label=Star) <br> [GitHub](https://github.com/bryanwong17/BEACON) |
 | **Computational Pathology in the Era of Emerging Foundation and Agentic AI -- International Expert Perspectives** | arXiv | 2026.03 | [Paper](https://arxiv.org/abs/2603.05884) | Not Available |
 | **LAMMI-Pathology: A Tool-Centric Bottom-Up LVLM-Agent Framework for Molecularly Informed Medical Intelligence** | arXiv | 2026.02 | [Paper](https://arxiv.org/abs/2602.18773) | Not Available |
 | **SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction** | arXiv | 2025.11 | [Paper](https://arxiv.org/abs/2511.16635)                | Not Available |
