@@ -1336,4 +1336,4 @@ To promote transparency and reproducibility, we provide the structured annotatio
 
 # Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AgenticHealthAI/Awesome-AI-Agents-for-Healthcare&type=date&legend=top-left)](https://www.star-history.com/#AgenticHealthAI/Awesome-AI-Agents-for-Healthcare&type=date&legend=top-left)
+[![Star History Chart](https://star-history.dera.page/svg?repos=AgenticHealthAI/Awesome-AI-Agents-for-Healthcare&type=date&legend=top-left)](https://star-history.dera.page/#AgenticHealthAI/Awesome-AI-Agents-for-Healthcare&type=date&legend=top-left)
