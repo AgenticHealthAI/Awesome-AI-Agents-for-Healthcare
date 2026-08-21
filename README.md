@@ -1282,6 +1282,7 @@ Beyond academic research papers, several open-source projects and tools provide 
 | **AnveVoice** | AI voice agent for healthcare websites — schedules appointments, answers patient FAQs, handles intake forms, and speaks 50+ languages with <700ms latency | [Website](https://anvevoice.app) |
 | **OpenHealth** | Privacy-first AI health assistant that uses personal health data (blood tests, checkups, family history, symptoms) with local LLM support via Ollama — supports LLaMA, DeepSeek, GPT, Claude, and Gemini for personalized health insights | ![Star](https://img.shields.io/github/stars/OpenHealthForAll/open-health.svg?style=social&label=Star) <br> [GitHub](https://github.com/OpenHealthForAll/open-health) |
 | **HealthFraudML** | Open-source Python framework for healthcare claims fraud detection (upcoding, unbundling, phantom/duplicate billing) — rule-based billing auditor, 8-model ML comparison, SHAP explainability, and LLM-powered audit explanations | ![Star](https://img.shields.io/github/stars/bharath309/healthfraudml.svg?style=social&label=Star) <br> [GitHub](https://github.com/bharath309/healthfraudml) |
+| **Hellomatik** | AI agent platform that turns a clinic's own knowledge into agents that answer patient calls, book and reschedule appointments and reduce no-shows across phone, WhatsApp, email and web | [Website](https://hellomatik.com) |
 
 ## Healthcare MCP Servers
 
