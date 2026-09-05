@@ -871,6 +871,8 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 ### **1.12 Education Agents**
 
+**Related free course:** [BioDockify Learn - AI in Healthcare: Diagnosis to Drug Discovery](https://learn.biodockify.com) - 24 free AI-narrated video lessons covering explainable AI in clinical settings (SHAP, GradCAM, GEMEX), EHR modeling, wearables, and clinical-judgment training with automation-bias scenarios.
+
 | Title                                                                                                                  | Venue  | Date   | Paper Link                                                              | Project Page                                                                                                                                                                                                                   |
 | :--------------------------------------------------------------------------------------------------------------------- | :----- | :----- | :---------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **MedEasy: Designing AI Standardized Patients for Clinical Consultation Training** | arXiv | 2026.06 | [Paper](https://arxiv.org/abs/2606.17512) | Not Available |
