@@ -1304,6 +1304,7 @@ Beyond academic research papers, several open-source projects and tools provide 
 | **Juno Open Health Tools** | Consent-gated MCP server that turns user-provided health notes into appointment agendas, question lists, symptom timelines, clinician briefs, and safety checklists without diagnosis or treatment recommendations | ![Star](https://img.shields.io/github/stars/MarshallBear1/juno-open-health-tools.svg?style=social&label=Star) <br> [GitHub](https://github.com/MarshallBear1/juno-open-health-tools) \| [MCP Server](https://juno-health-tools.vercel.app/api/mcp) |
 
 | **Genomic Agent Discovery** | Multi-agent MCP server for genomic analysis — specialized AI agents analyze raw DNA files across 12 databases (ClinVar, GWAS, AlphaMissense, CPIC, gnomAD, etc.) and coordinate findings through shared MCP tools. Privacy-first, runs 100% locally | ![Star](https://img.shields.io/github/stars/HelixGenomics/Genomic-Agent-Discovery.svg?style=social&label=Star) <br> [GitHub](https://github.com/HelixGenomics/Genomic-Agent-Discovery) |
+| [NotFair](https://notfair.co) | Google Ads MCP server for AI agents. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ## Healthcare RAG & Knowledge Systems
 
