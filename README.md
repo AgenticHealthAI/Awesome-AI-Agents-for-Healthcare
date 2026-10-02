@@ -1323,6 +1323,7 @@ Beyond academic research papers, several open-source projects and tools provide 
 
 | Project | Description | Links |
 | :------ | :---------- | :---- |
+| **Allowly** | Deterministic policy checks before consequential healthcare-agent actions, with signed decision records that can support per-study clinical evidence | [Clinical Trials](https://allowly.ai/use-cases/clinical-trials-proof/) |
 | **Taskade** | Open-source AI workspace for multi-agent workflow coordination, checklists, and team task automation — applicable to care-team task routing, intake triage, and SOP management | ![Star](https://img.shields.io/github/stars/taskade/taskade.svg?style=social&label=Star) <br> [GitHub](https://github.com/taskade/taskade) \| [Website](https://taskade.com) |
 
 ## Related Awesome Lists
