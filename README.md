@@ -1339,7 +1339,3 @@ This awesome list is maintained by a collaborative team from the University of N
 
 # Paper Annotations
 To promote transparency and reproducibility, we provide the structured annotation sheet used in our survey, including labels for technologies, medical domains, tasks, development stages, data modalities, and evaluation metrics. View the full Google Sheet here: [Link](https://docs.google.com/spreadsheets/d/15VfUS36CqaJRRldtiXZ4LicTVc_0puk8v98mUWWrPOg/edit?usp=sharing)
-
-# Star History
-
-[![Star History Chart](https://star-history.dera.page/svg?repos=AgenticHealthAI/Awesome-AI-Agents-for-Healthcare&type=date&legend=top-left)](https://star-history.dera.page/#AgenticHealthAI/Awesome-AI-Agents-for-Healthcare&type=date&legend=top-left)
