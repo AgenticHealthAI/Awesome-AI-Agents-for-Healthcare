@@ -86,6 +86,8 @@ If you find our paper and repository helpful, please cite:
 # Latest Papers
 
 ## Year 2026
+1. [arxiv 2026.9] **EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents** [[paper]](https://arxiv.org/abs/2609.38193) [[Github]](https://github.com/Yangxinyee/ehr2trace)
+1. [IEEE/ACM CHASE 2026 Workshop] **Reliability Stress Tests and Decision-Time Routing for Chest X-ray Vision-Language Models** [[paper]](https://doi.org/10.1109/CHASE69719.2026.00073) [[Github]](https://github.com/Yangxinyee/cxr-vlm-routing)
 1. [arxiv 2026.8] **MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination** [[paper]](https://arxiv.org/abs/2608.13476) [[Github]](https://github.com/Penn-RAIL/MARC-v1)
 1. [arxiv 2026.8] **Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting** [[paper]](https://arxiv.org/abs/2608.12590)
 1. [arxiv 2026.8] **Social Chain of Thought: A Multi-Agent Architecture Grounded in Medical Differential Diagnosis Methodology** [[paper]](https://arxiv.org/abs/2608.11420)
@@ -713,6 +715,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                                    | Venue                                      | Date    | Paper Link                                                            | Project Page                                                                                                                                                                         |
 | :----------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- | :------ | :-------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Reliability Stress Tests and Decision-Time Routing for Chest X-ray Vision-Language Models** | IEEE/ACM CHASE 2026 Workshop | 2026.08 | [Paper](https://doi.org/10.1109/CHASE69719.2026.00073) | ![Star](https://img.shields.io/github/stars/Yangxinyee/cxr-vlm-routing.svg?style=social&label=Star) <br> [GitHub](https://github.com/Yangxinyee/cxr-vlm-routing) |
 | **Policy-Driven CT-Agent: Modeling Phase-Aware Diagnostic Control for Clinically Consistent CT Reasoning** | arXiv | 2026.07 | [Paper](https://arxiv.org/abs/2607.10748) | Not Available |
 | **CogRad: A Cognitively-Inspired Multi-Agent Framework for Radiology Report Generation** | arXiv | 2026.07 | [Paper](https://arxiv.org/abs/2607.03853) | Not Available |
 | **A multi-agent system for spine MRI report generation from multi-sequence imaging** | arXiv | 2026.06 | [Paper](https://arxiv.org/abs/2606.08897) | Not Available |
@@ -1131,6 +1134,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                         | Venue | Date    | Paper Link                                 | Project Page                                                                                                                                                               |
 | :------------------------------------------------------------------------------------------------------------ | :---- | :------ | :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **EHR2Trace: Auditable EHR Data Infrastructure for Patient World Models and Clinical Agents** | arXiv | 2026.09 | [Paper](https://arxiv.org/abs/2609.38193) | ![Star](https://img.shields.io/github/stars/Yangxinyee/ehr2trace.svg?style=social&label=Star) <br> [GitHub](https://github.com/Yangxinyee/ehr2trace) |
 | **ELICITED: EHR-grounded Longitudinal Interactive Conversations for Information-seeking Triage Evaluation and Decision-making** | arXiv | 2026.08 | [Paper](https://arxiv.org/abs/2608.09024) | Not Available |
 | **ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science** | arXiv | 2026.07 | [Paper](https://arxiv.org/abs/2607.26155) | Not Available |
 | **PatientAgentBench: A Benchmark Framework for Evaluating Patient-Facing Health AI Agents** | arXiv | 2026.07 | [Paper](https://arxiv.org/abs/2607.25485) | ![Star](https://img.shields.io/github/stars/amazon-science/PatientAgentBench.svg?style=social&label=Star) <br> [GitHub](https://github.com/amazon-science/PatientAgentBench) |
