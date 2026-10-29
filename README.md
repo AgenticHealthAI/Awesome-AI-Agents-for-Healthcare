@@ -1287,6 +1287,12 @@ Beyond academic research papers, several open-source projects and tools provide 
 | **OpenHealth** | Privacy-first AI health assistant that uses personal health data (blood tests, checkups, family history, symptoms) with local LLM support via Ollama — supports LLaMA, DeepSeek, GPT, Claude, and Gemini for personalized health insights | ![Star](https://img.shields.io/github/stars/OpenHealthForAll/open-health.svg?style=social&label=Star) <br> [GitHub](https://github.com/OpenHealthForAll/open-health) |
 | **HealthFraudML** | Open-source Python framework for healthcare claims fraud detection (upcoding, unbundling, phantom/duplicate billing) — rule-based billing auditor, 8-model ML comparison, SHAP explainability, and LLM-powered audit explanations | ![Star](https://img.shields.io/github/stars/bharath309/healthfraudml.svg?style=social&label=Star) <br> [GitHub](https://github.com/bharath309/healthfraudml) |
 
+## Healthcare Agent Evaluation & Reliability
+
+| Project | Description | Links |
+| :------ | :---------- | :---- |
+| **ClinicalFaultBench** | Failure-audit benchmark that injects seven clinically meaningful faults (missing labs, unit errors, contradictory records, stale data, result truncation, cross-patient contamination, timeline drift) into a clinical agent's data/tool/temporal environment and scores how it fails — paired error delta, error propagation, patient-safety violations, calibration — on synthetic Synthea patients; ships 23 regression tests pinning each scoring artefact it once fell into | ![Star](https://img.shields.io/github/stars/hongjunt50-afk/ClinicalFaultBench.svg?style=social&label=Star) <br> [GitHub](https://github.com/hongjunt50-afk/ClinicalFaultBench) \| [Report](https://github.com/hongjunt50-afk/ClinicalFaultBench/blob/main/results/RESULTS.md) \| [Site](https://hongjunt50-afk.github.io/ClinicalFaultBench/) |
+
 ## Healthcare MCP Servers
 
 | Project | Description | Links |
