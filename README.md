@@ -155,6 +155,7 @@ If you find our paper and repository helpful, please cite:
 1. [arxiv 2026.6] **RubricsTree: Scalable and Evolving Open-Ended Evaluation of Personal Health Agents across Health Memory and Medical Skills** [[paper]](https://arxiv.org/abs/2606.18203)
 1. [arxiv 2026.6] **Agentic AI-based Framework for Mitigating Premature Diagnostic Handoff and Silent Hallucination in Healthcare Applications** [[paper]](https://arxiv.org/abs/2606.18068)
 1. [arxiv 2026.6] **MedEasy: Designing AI Standardized Patients for Clinical Consultation Training** [[paper]](https://arxiv.org/abs/2606.17512)
+1. [arxiv 2026.6] **Patients With Personality: Realistic Patient Simulation through Controlled Diversity and Selective Disclosure** [[paper]](https://arxiv.org/abs/2606.17441) [[Github]](https://github.com/mo374z/PatientsWithPersonality)
 1. [arxiv 2026.6] **Teaching agentic AI to learn expert reasoning for rare disease diagnosis** [[paper]](https://arxiv.org/abs/2606.16149)
 1. [arxiv 2026.6] **DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning over Historical Medical Texts** [[paper]](https://arxiv.org/abs/2606.15931)
 1. [arxiv 2026.6] **Let LLMs Judge Each Other: Multi-Agent Peer-Reviewed Reasoning for Medical Question Answering** [[paper]](https://arxiv.org/abs/2606.15419)
@@ -1144,6 +1145,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 | **OpenBioRQ: Unsolved Biomedical Research Questions for Agents** | arXiv | 2026.06 | [Paper](https://arxiv.org/abs/2606.21959) | Not Available |
 | **Are LLMs Ready to Assist Physicians? PhysAssistBench for Interactive Doctor-Patient-EHR Assistance** | arXiv | 2026.06 | [Paper](https://arxiv.org/abs/2606.18613) | Not Available |
 | **RubricsTree: Scalable and Evolving Open-Ended Evaluation of Personal Health Agents across Health Memory and Medical Skills** | arXiv | 2026.06 | [Paper](https://arxiv.org/abs/2606.18203) | Not Available |
+| **Patients With Personality: Realistic Patient Simulation through Controlled Diversity and Selective Disclosure** | arXiv | 2026.06 | [Paper](https://arxiv.org/abs/2606.17441) | ![Star](https://img.shields.io/github/stars/mo374z/PatientsWithPersonality.svg?style=social&label=Star) <br> [GitHub](https://github.com/mo374z/PatientsWithPersonality) |
 | **MedCTA: A Benchmark for Clinical Tool Agents** | arXiv | 2026.06 | [Paper](https://arxiv.org/abs/2606.11702) | ![Star](https://img.shields.io/github/stars/IVUL-KAUST/MedCTA.svg?style=social&label=Star) <br> [GitHub](https://github.com/IVUL-KAUST/MedCTA) |
 | **PSEBench: A Controllable and Verifiable Benchmark for Evaluating LLMs in Patient Safety Event Triage** | arXiv | 2026.06 | [Paper](https://arxiv.org/abs/2606.05463) | Not Available |
 | **MedCUA-Bench: A Screenshot-Only Benchmark for Clinical Computer-Use Agents** | arXiv | 2026.06 | [Paper](https://arxiv.org/abs/2606.03203) | Not Available |
