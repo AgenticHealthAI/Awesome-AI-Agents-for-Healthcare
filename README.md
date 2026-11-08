@@ -132,6 +132,7 @@ If you find our paper and repository helpful, please cite:
 1. [arxiv 2026.7] **MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents** [[paper]](https://arxiv.org/abs/2607.02879)
 1. [arxiv 2026.7] **Evaluating Agentic Harness Systems for Autonomous Computational Pathology** [[paper]](https://arxiv.org/abs/2607.02598)
 1. [arxiv 2026.6] **HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents** [[paper]](https://arxiv.org/abs/2606.31179) [[Github]](https://github.com/microsoft/HealthAgentBench)
+1. [NeurIPS 2026] **Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care** [[paper]](https://arxiv.org/abs/2606.31036) [[Github]](https://github.com/roychowdhuryresearch/Manana)
 1. [AMIA 2026] **Agentic AI Enhances Physician Trust in Clinical Decision Making** [[paper]](https://arxiv.org/abs/2606.30658)
 1. [arxiv 2026.6] **TopoAgent: An Agentic Framework for Automated Topology Learning in Medical Imaging** [[paper]](https://arxiv.org/abs/2606.29763)
 1. [IJCAI 2026] **DEEPMED Search: An Open-Source Agentic Platform for Medical Deep Research with Introspective Verification** [[paper]](https://arxiv.org/abs/2606.29746)
@@ -828,6 +829,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 | :--------------------------------------------------------------------------------------------------------------------------- | :------------------- | :------ | :------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study** | arXiv | 2026.07 | [Paper](https://arxiv.org/abs/2607.12886) | Not Available |
 | **Multi-Large Language Model Orchestrated Severity Assessment of Clinical Records (MOSAIC)** | arXiv | 2026.07 | [Paper](https://arxiv.org/abs/2607.05032) | Not Available |
+| **Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care** | NeurIPS | 2026.06 | [Paper](https://arxiv.org/abs/2606.31036) | ![Star](https://img.shields.io/github/stars/roychowdhuryresearch/Manana.svg?style=social&label=Star) <br> [GitHub](https://github.com/roychowdhuryresearch/Manana) |
 | **Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why** | arXiv | 2026.06 | [Paper](https://arxiv.org/abs/2606.19602) | Not Available |
 | **COTCAgent: Preventive Consultation via Probabilistic Chain-of-Thought Completion** | arXiv | 2026.05 | [Paper](https://arxiv.org/abs/2605.15016) | Not Available |
 | **Reinforcement Learning for Tool-Calling Agents in Fast Healthcare Interoperability Resources (FHIR)** | arXiv | 2026.05 | [Paper](https://arxiv.org/abs/2605.14126) | Not Available |
