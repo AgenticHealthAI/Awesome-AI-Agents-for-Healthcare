@@ -86,6 +86,7 @@ If you find our paper and repository helpful, please cite:
 # Latest Papers
 
 ## Year 2026
+1. [EMNLP 2026] **MMedAgentBench: A Multi-Stage Benchmark for Evaluating LLM-based Medical Agents** [[paper]](https://aclanthology.org/2026.emnlp-main.469/) [[Github]](https://github.com/ZhangXiangyi0523/MMedAgentBench)
 1. [arxiv 2026.8] **MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination** [[paper]](https://arxiv.org/abs/2608.13476) [[Github]](https://github.com/Penn-RAIL/MARC-v1)
 1. [arxiv 2026.8] **Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting** [[paper]](https://arxiv.org/abs/2608.12590)
 1. [arxiv 2026.8] **Social Chain of Thought: A Multi-Agent Architecture Grounded in Medical Differential Diagnosis Methodology** [[paper]](https://arxiv.org/abs/2608.11420)
@@ -1131,6 +1132,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title                                                                                                         | Venue | Date    | Paper Link                                 | Project Page                                                                                                                                                               |
 | :------------------------------------------------------------------------------------------------------------ | :---- | :------ | :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **MMedAgentBench: A Multi-Stage Benchmark for Evaluating LLM-based Medical Agents** | EMNLP | 2026.10 | [Paper](https://aclanthology.org/2026.emnlp-main.469/) | ![Star](https://img.shields.io/github/stars/ZhangXiangyi0523/MMedAgentBench.svg?style=social&label=Star) <br> [GitHub](https://github.com/ZhangXiangyi0523/MMedAgentBench) |
 | **ELICITED: EHR-grounded Longitudinal Interactive Conversations for Information-seeking Triage Evaluation and Decision-making** | arXiv | 2026.08 | [Paper](https://arxiv.org/abs/2608.09024) | Not Available |
 | **ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science** | arXiv | 2026.07 | [Paper](https://arxiv.org/abs/2607.26155) | Not Available |
 | **PatientAgentBench: A Benchmark Framework for Evaluating Patient-Facing Health AI Agents** | arXiv | 2026.07 | [Paper](https://arxiv.org/abs/2607.25485) | ![Star](https://img.shields.io/github/stars/amazon-science/PatientAgentBench.svg?style=social&label=Star) <br> [GitHub](https://github.com/amazon-science/PatientAgentBench) |
