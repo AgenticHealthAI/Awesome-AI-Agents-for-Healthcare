@@ -80,6 +80,7 @@ If you find our paper and repository helpful, please cite:
 - [**Open-Source Projects & Tools**](#open-source-projects--tools)
 - [**Acknowledgement**](#acknowledgement)
 - [**Star History**](#star-history)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 
 ---
 
