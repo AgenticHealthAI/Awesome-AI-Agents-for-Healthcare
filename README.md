@@ -1206,6 +1206,7 @@ _(Agents designed to process and reason over multiple data types like images, te
 
 | Title | Venue | Date | Paper Link | Project Page |
 | :---- | :---- | :--- | :--------- | :----------- |
+| **A Survey on Recursive Self-Improvement in Healthcare AI Agents** | Preprints.org | 2026.11 | [Paper](https://www.preprints.org/manuscript/202605.1547/v2) | [Project](https://dengzhe-hou.github.io/RSI-Healthcare-Agents/) <br> [GitHub](https://github.com/dengzhe-hou/RSI-Healthcare-Agents) |
 | **Agentic AI in medicine: architectures, applications, evaluation, and challenges for clinical translation** | arXiv | 2026.07 | [Paper](https://arxiv.org/abs/2607.25489) | Not Available |
 | **The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Autonomy** | arXiv | 2026.07 | [Paper](https://arxiv.org/abs/2607.11175) | ![Star](https://img.shields.io/github/stars/zhcz328/Awesome-Medical-Agents.svg?style=social&label=Star) <br> [GitHub](https://github.com/zhcz328/Awesome-Medical-Agents) |
 | **Rethinking Health Agents: From Siloed AI to Collaborative Decision Mediators** | CHI Workshop | 2026 | [Paper](https://arxiv.org/abs/2603.24986) | Not Available |
